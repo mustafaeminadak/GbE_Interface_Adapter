@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=USB3TX_N Pin=C2-2
+Removed Pin From Net: NetName=USB3TX_P Pin=C5-2
+Added Pin To Net: NetName=USB3TX_P Pin=C2-2
+Added Pin To Net: NetName=USB3TX_N Pin=C5-2
